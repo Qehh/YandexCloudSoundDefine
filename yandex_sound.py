@@ -10,7 +10,7 @@ import json
  
 # Вставьте свой API-ключ 
 
-key = 'AQVN0ejfS1TLEHr5t1PI9nMgLWE-0g4shzdwtS2v'
+key = 'Secret key from the cloud'
 
  
 # Вставьте свой путь к файлу в бакете. Всё, что в ссылке стоит после знака вопроса, можно стереть — сервер всё равно это проигнорирует
